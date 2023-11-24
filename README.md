@@ -1,9 +1,11 @@
 <h1>👋Hello, I'm Kelechukwu Ikechukwu</h1>
 
-<h3 align="start">A skillful self-taught frontend developer, ensuring responsiveness and seamless cross-browser compatibility through clean and elegant code.</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelechukwu1&show_icons=true&locale=en" alt="kelechukwu1" /></p>
+<h4 align="start">A skillful self-taught frontend developer, ensuring responsiveness and seamless cross-browser compatibility through clean and elegant code.</h4>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kelechukwu1&" alt="kelechukwu1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelechukwu1&show_icons=true&locale=en" alt="kelechukwu1" /></p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelechukwu1&show_icons=true&locale=en&layout=compact" alt="kelechukwu1" /></p>
 <!--
