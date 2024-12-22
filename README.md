@@ -18,8 +18,8 @@
 
 <br><br><br><br> <!-- Spacer to align properly -->
 
-<h3 align="center">Support:</h3>
-<p align="right">
+<h3 align="left">Support:</h3>
+<p align="left">
   <a href="https://www.buymeacoffee.com/kelechukwu">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kelechukwu" />
   </a>
