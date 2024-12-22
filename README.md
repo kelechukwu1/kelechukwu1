@@ -22,5 +22,5 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kelechukwu1&" alt="kelechukwu1" /></p>
 
-<h3 align="right">Support:</h3>
+<h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kelechukwu"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kelechukwu" /></a></p><br><br>
