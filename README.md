@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/kelechukwu_1" target="blank"><img src="https://img.shields.io/twitter/follow/kelechukwu_1?logo=twitter&style=for-the-badge" alt="kelechukwu_1" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/kelechukwu_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kelechukwu_1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kelechukwu-ikechukwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelechukwu-ikechukwu" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Portfolio:</h3> <a href="https://kelechukwu-ikechukwu.vercel.app" target="_blank" rel="noreferrer"><p align="left">https://kelechukwu-ikechukwu.vercel.app  </p> </a>
+<h4 align="left">Portfolio:</h4> <a href="https://kelechukwu-ikechukwu.vercel.app" target="_blank" rel="noreferrer"><p>https://kelechukwu-ikechukwu.vercel.app  </p> </a>
 
 <br>
 
-<h3 align="left">Support:</h3>
+<h4 align="left">Support:</h4>
 <p align="left">
   <a href="https://www.buymeacoffee.com/kelechukwu">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kelechukwu" />
