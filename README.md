@@ -17,8 +17,6 @@
 
 <h3 align="left">Portfolio:</h3> <a href="https://kelechukwu-ikechukwu.vercel.app" target="_blank" rel="noreferrer"><p>https://kelechukwu-ikechukwu.vercel.app  </p> </a>
 
-<br>
-
 <h3 align="left">Support:</h3>
 <p align="left">
   <a href="https://www.buymeacoffee.com/kelechukwu">
