@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelechukwu</h1>
-<h3 align="center">I'm a frontend engineer</h3>
+<h3 align="center">I'm a software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelechukwu1&label=Profile%20views&color=0e75b6&style=flat" alt="kelechukwu1" /> </p>
 
